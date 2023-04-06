@@ -17,6 +17,7 @@ export const Footer = () => {
               href="https://www.instagram.com/"
               target="_blank"
               className="mr-4 hover:underline md:mr-6 "
+              rel="noreferrer"
             >
               Instagram
             </a>
@@ -26,6 +27,7 @@ export const Footer = () => {
               href="https://www.linkedin.com/"
               target="_blank"
               className="mr-4 hover:underline md:mr-6"
+              rel="noreferrer"
             >
               LinkedIn
             </a>
@@ -35,6 +37,7 @@ export const Footer = () => {
               href="https://www.youtube.com/"
               target="_blank"
               className="mr-4 hover:underline md:mr-6"
+              rel="noreferrer"
             >
               Youtube
             </a>
@@ -44,6 +47,7 @@ export const Footer = () => {
               href="https://github.com/"
               target="_blank"
               className="hover:underline"
+               rel="noreferrer"
             >
               Github
             </a>
